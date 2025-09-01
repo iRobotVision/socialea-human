@@ -88,6 +88,24 @@ minADE: 7.82
 minFDE: 12.48
 ```
 
+## Citation
+If you find this repository interesting and it has inspired you in certain ways, please consider citing our work:
+
+```
+@ARTICLE{11134837,
+  author={Chen, Jiuyu and Jia, Chunxiao and Xie, Wei and Zhu, Donglin and Shao, Xiaotao and Wang, Zhongli},
+  journal={IEEE Transactions on Network Science and Engineering}, 
+  title={MHTraj: A Multi-Domain Hybrid Graph Neural Network With Causal-Spatial Modeling for Multi-Agent Trajectory Prediction}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Trajectory;Transformers;Predictive models;Computational modeling;Adaptation models;Context modeling;Frequency-domain analysis;Accuracy;Feature extraction;Convolution;social behavior modeling;dynamic interactions;graph transformer;multi-agent trajectory prediction},
+  doi={10.1109/TNSE.2025.3602212}}
+
+```
+
 
 ## 🤗 Acknowledgement
 * Our work benefits from [MART](https://github.com/gist-ailab/MART) in the training and testing pipeline—special thanks to the authors for their great contribution!
+
