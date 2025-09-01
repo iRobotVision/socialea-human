@@ -90,9 +90,9 @@ minFDE: 12.48
 
 ## Visualization
 * on NBA dataset
-'''
-python main_nba.py --config ./configs/mhtraj_nba.yaml --gpu $GPU_ID --vis
-'''
+  '''
+  python main_nba.py --config ./configs/mhtraj_nba.yaml --gpu $GPU_ID --vis
+  '''
 
 
 ## Citation
