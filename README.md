@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ### NBA Dataset
 
-* The dataset is included in ```./datasets/nba/```
+* Download the [dataset](https://github.com/gist-ailab/MART/tree/main/datasets/nba) and place it in ./datasets/nba/```
 
 * Train MART on the NBA dataset
 
@@ -64,16 +64,12 @@ pip install -r requirements.txt
 
 ## Main Results
 ### NBA Dataset
-* Version with minor bug fixes
+*
   ```
-  minADE (4.0s): 0.728
-  minFDE (4.0s): 0.902
+  minADE (4.0s): 0.699
+  minFDE (4.0s): 0.881
   ```
-* In paper
-  ```
-  minADE (4.0s): 0.727
-  minFDE (4.0s): 0.903
-  ```
+
 
 ### ETH-UCY Dataset
 ```
