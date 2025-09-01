@@ -94,6 +94,9 @@ minFDE: 12.48
   python main_nba.py --config ./configs/mhtraj_nba.yaml --gpu $GPU_ID --vis
   ```
 
+## For nuScenes dataset
+* Please refer to our previous work [Q-EANet](https://github.com/Jctrp/socialea), and we will organize and add the relevant code in the future.
+
 
 ## Citation
 If you find this repository interesting and it has inspired you in certain ways, please consider citing our work:
