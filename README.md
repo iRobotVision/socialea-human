@@ -88,6 +88,13 @@ minADE: 7.82
 minFDE: 12.48
 ```
 
+## Visualization
+* on NBA dataset
+'''
+python main_nba.py --config ./configs/mhtraj_nba.yaml --gpu $GPU_ID --vis
+'''
+
+
 ## Citation
 If you find this repository interesting and it has inspired you in certain ways, please consider citing our work:
 
