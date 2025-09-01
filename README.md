@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ### NBA Dataset
 
-* Download the [dataset](https://github.com/gist-ailab/MART/tree/main/datasets/nba) and place it in ./datasets/nba/```
+* Download the [dataset](https://github.com/gist-ailab/MART/tree/main/datasets/nba) and place it in ```./datasets/nba/```
 
 * Train MHTraj on the NBA dataset
 
